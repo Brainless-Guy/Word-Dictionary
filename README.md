@@ -15,10 +15,10 @@ or In Shell
  
 ## Configure
 
->[!IMPORTANT]
+> [!IMPORTANT]
 -  Enable Notifications In Settings .
 
->[!NOTE]
+> [!NOTE]
 - You can set the time of each notification duration by changing `time.sleep(x)`.
 - for Duration ` duration =x` .
 
