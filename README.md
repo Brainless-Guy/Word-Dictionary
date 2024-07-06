@@ -31,8 +31,8 @@ or In Shell
 ## Credits :
 ***RESOURCES USED:***
 
-- [API](api.dictionaryapi.dev) > free api
-- [DICTIONARY](svnweb.freebsd.org/csrg/share/dict/words?view=co&content-type=text/plain)
+- [API](https://api.dictionaryapi.dev) > free api
+- [DICTIONARY](https://svnweb.freebsd.org/csrg/share/dict/words?view=co&content-type=text/plain)
 
 
 
