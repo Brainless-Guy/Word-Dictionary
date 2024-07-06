@@ -2,7 +2,7 @@
 - A Python Code That Will Push Notifications of Random Words With its Meaning
 
 
-    _Help in Vocabulary_
+    _Helps in Vocabulary_
 
 ## How To Use
  
