@@ -23,6 +23,13 @@ or In Shell
 > for Duration ` duration =x` .
 
 
+
+
+- **USE RUN.BAT FOR TEMPORARY USE***
+
+- ***IF YOU WANT TO RUN PROGRAM WITHOUT TURNING ON DAILY AND CONTINUOUSLY USE RUN.VBS ( recommended )***
+**__you can stop the code by Killing python program in task manager__**
+
 ### How it works: :
 
 ![Example](assets/example.png)
