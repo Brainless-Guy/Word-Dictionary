@@ -9,7 +9,7 @@
 >  Download the Package
 
 * Run :
-click `Dictionary.bat`
+click `Run.bat`
 or In Shell
 `python3 Word.py`
  
