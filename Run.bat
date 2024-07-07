@@ -1,10 +1,20 @@
 @echo off 
 
+
+
+
+
 set root=%~dp0
 
 
-color 0B
+pip3 install -r %root%requirements.txt
+
+
+
+
 
 
 
 python3 %root%Word.py
+ 
+pause
